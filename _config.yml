@@ -45,3 +45,4 @@ exclude:
   - LICENSE
 
 
+remote_data_prefix: https://kinethic08.github.io/data
